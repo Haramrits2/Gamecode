@@ -30,6 +30,6 @@ Welcome to the **Spelling Unscrambler Game**, a fast-paced word puzzle challenge
 - Time
 - Random
 
-##  Code Structure
+
 
 
